@@ -32,7 +32,7 @@ I am a Software Developer specializing in high-scale backend systems, data proce
 ## Open Source Contributions
 
 ### golang/go
-* Submitted a patch to `cmd/link` implementing the ARM Cortex-A53 erratum 843419 workaround for arm64 builds. *(Link to PR/Commit here)*
+* Submitted a patch to `cmd/link` implementing the ARM Cortex-A53 erratum 843419 workaround for arm64 builds.
 
 ---
 
@@ -40,9 +40,4 @@ I am a Software Developer specializing in high-scale backend systems, data proce
 
 * **LinkedIn:** [linkedin.com/in/luizgre](https://linkedin.com/in/luizgre) 
 * **Email:** luizfelipe.gre@gmail.com 
-
-<br>
-
-<p align="left">
- <img src="https://github-readme-stats.vercel.app/api?username=luizgreboge&show_icons=true&theme=transparent&hide_border=true&title_color=black&text_color=333333&icon_color=333333" height="150" alt="GitHub Stats" />
 </p>
